@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <>
       <footer>
-        <p>Copyright © GOSTO all rights reserved. Powered by GORKCODER.</p>
+        <p>Copyright © SID all rights reserved. Powered by Siddharth.</p>
       </footer>
     </>
   )
