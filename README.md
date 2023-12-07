@@ -1,5 +1,5 @@
 <h1>Gosto-Modern-Ecom-pro</h1>
-<h3>Checkout the website: https://gosto-template-master.vercel.app/</h3>
+<h3>Checkout the WebApp: https://gosto-template-master.vercel.app/</h3>
 <br>
 
 <h3>🌟Project Description</h3>
